@@ -45,7 +45,7 @@ svg {
   max-width: 100%;
   height: auto;
 }
-*/ input,
+input,
 button,
 textarea,
 select {
@@ -146,6 +146,7 @@ footer p {
 
 a {
   color: blue;
+  text-decoration: none;
 }
 
 a[href]:hover {
